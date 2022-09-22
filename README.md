@@ -1,1 +1,3 @@
-자주 사용할만한 몇 가지 유용한 cf나 lambda code를 기록하기 위함
+This repository is a space for useful cloudformation stack or lambda code.
+
+![image](https://user-images.githubusercontent.com/105655711/191780814-155c2002-9cb6-444f-a62d-d51ed46dbafd.png)
